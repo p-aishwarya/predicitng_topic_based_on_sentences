@@ -1,0 +1,1600 @@
+Sentence : We also aim to reward those who invest their money, time and ideas in our company.
+Topic : 
+Customer Welfare
+Customer Welfare and Community Relations
+Customer Welfare and Welfare
+Customer Welfare and Employee Welfare
+Customer Welfare and Diversity
+
+---------------------------------------------------------------------------------------------
+
+Sentence :  tEChNOlOGY We use artificial intelligence, gene editing and other cutting-edge tech- nologies to spur innovation and increase efficiency.
+Topic : 
+Business Model and Innovation
+Artificial Intelligence
+Business Model Resilience
+Environment
+Systemic Risk Management
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We develop and produce innovative medicines to address patient needs in disease areas where our experience and knowledge have the potential to produce transformative treatments.
+Topic : 
+Business Model and Innovation
+Access and Affordability
+Product Design and Lifecycle Management
+Customer Welfare
+Business Model Resilience
+
+---------------------------------------------------------------------------------------------
+
+Sentence : In our pursuit of trans- formative treatments, we challenge medical paradigms and explore possibilities to cure disease, intervene earlier in chronic illnesses, and find ways to dramatically improve quality of life.
+Topic : 
+Business Model and Innovation
+Systemic Risk Management
+Critical Incident Risk Management
+Leadership and Governance
+Business Model Resilience
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We also aim to reward those who invest their money, time and ideas in our company.
+Topic : 
+Customer Welfare
+Customer Welfare and Community Relations
+Customer Welfare and Welfare
+Customer Welfare and Employee Welfare
+Customer Welfare and Diversity
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Novartis Pharmaceuticals Novartis Pharmaceuticals focuses on patented treat - ments in multiple disease areas to enhance health outcomes for patients and offer solutions to healthcare providers.
+Topic : 
+Business Model and Innovation
+Business Model Resilience
+Management of the Legal Regulatory Environment
+Selling Practices and Product Labeling
+Access and Affordability
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Our products Our products address most major disease areas and are sold in approximately 155 countries around the world.
+Topic : 
+Business Model and Product Labeling
+Access and Affordability
+Product Quality and Safety
+Product Labeling and Safety
+Management of the Legal Risk Management
+
+---------------------------------------------------------------------------------------------
+
+Sentence : The rise in the average yearly number of new drugs approved by the US FDAs Center for Drug Evaluation and Research from 2015-2019, compared to 2010-2014
+Topic : 
+Selling Practices and Product Labeling
+Product Design and Lifecycle Management
+Management of the Legal Regulatory Environment
+Business Model Resilience
+Business Model and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We also offer about 1 000 generic and bio- similar medicines covering a broad range of therapeutic areas.
+Topic : 
+Selling Practices and Product Labeling
+Competitive Behavior
+Access and Affordability
+Business Model and Product Labeling
+Business Model and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Thank you for taking the time to learn more about how Novartis continues to make meaningful progress on environ- mental, social and governance (ESG) topics.
+Topic : 
+Environment
+Environment and Governance
+Environmental Impact of Climate Change
+Environment for Community Relations
+Environment Resilience
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Related to responsible citizenship, we made significant progress toward making good on the promises we made in signing the UN Equal Pay Interna- tional Coalition (EPIC) pledge for pay equity.
+Topic : 
+Human Rights and Community Relations
+Employee Health and Safety
+Human Capital
+Leadership and Governance
+Employee Benefits and Diversity
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We understand our contri- butions must be part of a larger social movement, as the challenges society faces are too great for any group or government to solve alone.
+Topic : 
+Social Capital
+Leadership and Governance
+Social Capital and Community Relations
+Business Model Resilience
+Socialism and Community Relations
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We reimagine medicine to improve and extend peoples lives.
+Topic : 
+Business Model and Innovation
+Access and Affordability
+Business Model Resilience
+Medicine for the Health and Safety
+Customer Welfare and Community Relations
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We also aim to reward those who invest their money, time and ideas in our company.
+Topic : 
+Customer Welfare
+Customer Welfare and Community Relations
+Customer Welfare and Welfare
+Customer Welfare and Employee Welfare
+Customer Welfare and Diversity
+
+---------------------------------------------------------------------------------------------
+
+Sentence : In our pursuit of trans- formative treatments, we challenge medical paradigms and explore possibilities to cure disease, intervene earlier in chronic illnesses, and find ways to dramatically improve quality of life.
+Topic : 
+Business Model and Innovation
+Systemic Risk Management
+Critical Incident Risk Management
+Leadership and Governance
+Business Model Resilience
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We aim to spark a digital revolution at Novartis, embracing digital tech- no logies, advanced analytics and artificial intelligence to help drive innovation and improve efficiency.
+Topic : 
+Business Model and Innovation
+Digital Innovation and Innovation
+Leadership and Governance
+Digital Transformation and Innovation
+Business Model and Governance
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Photo A worker at Ziplines distribution center in Omenako, Ghana, prepares a medical order for drone delivery.
+Topic : 
+Business Model and Innovation
+Business Model Resilience
+Business Ethics
+Customer Welfare
+Business Modeling and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Novartis has partnered with Zipline, a US-based automated logistics company, to help deliver vital medicines to remote areas.
+Topic : 
+Business Model and Innovation
+Business Model Resilience
+Business Model & Innovation
+Business Model and Technology
+Business Model and Product Design
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We also aim to reward those who invest their money, time and ideas in our company.
+Topic : 
+Customer Welfare
+Customer Welfare and Community Relations
+Customer Welfare and Welfare
+Customer Welfare and Employee Welfare
+Customer Welfare and Diversity
+
+---------------------------------------------------------------------------------------------
+
+Sentence : FINaNCIal CaPItal We use cash, equity and debt to meet our financial com- mitments, make investments and pay dividends.
+Topic : 
+Business Model Resilience
+Business Model and Investment Management
+Capital Market Risk Management
+Management of the Financial System
+Business Model and Governance
+
+---------------------------------------------------------------------------------------------
+
+Sentence : NatURal CaPItal We consume energy, e r water and other resources to manu- facture our products and operate our business.
+Topic : 
+Water & Wastewater Management
+Product Design and Lifecycle Management
+Business Ethics
+Business Model Resilience
+Business Model and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : RElatIONshIPs We work with doctors to get effective treat- ments to patients.
+Topic : 
+Access and Affordability
+Selling Practices and Product Labeling
+Systemic Risk Management
+Management of the Legal Regulatory Environment
+Business Model and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : INtEllECtUal CaPItal We use expertise and data to devel- op and market our products.
+Topic : 
+Product Design and Lifecycle Management
+Product Design and Marketing
+Business Model Resilience
+Product Design and Marketability
+Business Model and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We develop and produce innovative medicines to address patient needs in disease areas where our experience and knowledge have the potential to produce transformative treatments.
+Topic : 
+Business Model and Innovation
+Access and Affordability
+Product Design and Lifecycle Management
+Customer Welfare
+Business Model Resilience
+
+---------------------------------------------------------------------------------------------
+
+Sentence : 3 2019 highlights 4 Who we are 6 What we do 8 Message from the CEO Global Health & Corporate Responsibility at Novartis 9 13 Strategic areas Holding ourselves to the highest ethical standards 13 20 Being part of the solution onpricing and access 32 Addressing global healthchallenges 39 Being a responsible citizen 50 About this report 51 Performance indicators 2019 55 Novartis GRI Content Index Appendix: corporate responsibility material topic boundaries 59 Appendix: corporate responsibility materiality assessment issue cluster andtopic definitions Appendix: external initiatives and membership of associations Appendix: supplier spend 2019 Appendix: the responsible procurement (RP) risk indicator tool Appendix: measuring and valuing our impact Independent Assurance Report onthe 2019 Novartis in Society ESGreporting
+Topic : 
+Supply Chain Management
+Business Ethics
+Customer Welfare
+Employee Health and Safety
+Customer Welfare and Community Relations
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Novartis has partnered with Zipline, a US-based automated logistics company, to help deliver vital medicines to remote areas.
+Topic : 
+Business Model and Innovation
+Business Model Resilience
+Business Model & Innovation
+Business Model and Technology
+Business Model and Product Design
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We also aim to reward those who invest their money, time and ideas in our company.
+Topic : 
+Customer Welfare
+Customer Welfare and Community Relations
+Customer Welfare and Welfare
+Customer Welfare and Employee Welfare
+Customer Welfare and Diversity
+
+---------------------------------------------------------------------------------------------
+
+Sentence : CORPORATE FUNCTIONS support the enterprise in specific areas of expertise, including finance, human resources, legal and commu- nications.
+Topic : 
+Human Capital
+Human Capital and Business Ethics
+Leadership and Governance
+HR & Human Capital
+Human Capital and Community Relations
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Photo A worker at Ziplines distribution center in Omenako, Ghana, prepares a medical order for drone delivery.
+Topic : 
+Business Model and Innovation
+Business Model Resilience
+Business Ethics
+Customer Welfare
+Business Modeling and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Novartis has partnered with Zipline, a US-based automated logistics company, to help deliver vital medicines to remote areas.
+Topic : 
+Business Model and Innovation
+Business Model Resilience
+Business Model & Innovation
+Business Model and Technology
+Business Model and Product Design
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We reimagine medicine to improve and extend peoples lives.
+Topic : 
+Business Model and Innovation
+Access and Affordability
+Business Model Resilience
+Medicine for the Health and Safety
+Customer Welfare and Community Relations
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We use innovative science and technology to address some of societys most challenging healthcare issues.
+Topic : 
+Access and Affordability
+Access, and Affordability
+Access and Affordability Management
+Access & Affordability
+Business Model and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : The Novartis Institutes for BioMedical Research (NIBR) is the innovation engine of Novartis.
+Topic : 
+Business Model and Innovation
+Business Model and Innovation Management
+BioMedical Innovation and Innovation
+Access and Affordability
+BioMedical Research and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Thank you for taking the time to learn more about how Novartis continues to make meaningful progress on environ- mental, social and governance (ESG) topics.
+Topic : 
+Environment
+Environment and Governance
+Environmental Impact of Climate Change
+Environment for Community Relations
+Environment Resilience
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We made significant progress in global health, including on our efforts to elim- inate leprosy and malaria.
+Topic : 
+Global Health and Safety
+Leadership and Governance
+Human Health and Safety
+Business Ethics
+Health and Safety
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Related to responsible citizenship, we made significant progress toward making good on the promises we made in signing the UN Equal Pay Interna- tional Coalition (EPIC) pledge for pay equity.
+Topic : 
+Human Rights and Community Relations
+Employee Health and Safety
+Human Capital
+Leadership and Governance
+Employee Benefits and Diversity
+
+---------------------------------------------------------------------------------------------
+
+Sentence : g INFRastRUCtURE aND FaCIlItIEs We own or lease research laborato- ries, manufacturing sites, offices and distribution facilities around the world.
+Topic : 
+Business Model Resilience
+Business Model and Innovation
+Research and Innovation
+Research and Development
+Business Model and Product Design
+
+---------------------------------------------------------------------------------------------
+
+Sentence : The projected number of people in the world aged 65 or older by 2030, a 64% increase from 2015, according to the United Nations World Popula- tion Prospects
+Topic : 
+Population Health and Safety
+Human Capital
+Business Model Resilience
+Global Health and Safety
+Population and Community Relations
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We strive to build trust with society through our efforts to operate with integrity, and to find new ways to expand patients access to our treatments.
+Topic : 
+Business Ethics
+Leadership and Governance
+Customer Welfare
+Business Ethics and Governance
+Business Ethics and Ethics
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We aspire to be a leader on environmental, social and governance topics and to build trust with society.
+Topic : 
+Leadership and Governance
+Social Capital
+Business Ethics
+Governance and Governance
+Global Governance and Governance
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Novartis has partnered with Zipline, a US-based automated logistics company, to help deliver vital medicines to remote areas.
+Topic : 
+Business Model and Innovation
+Business Model Resilience
+Business Model & Innovation
+Business Model and Technology
+Business Model and Product Design
+
+---------------------------------------------------------------------------------------------
+
+Sentence : NOVARTIS TECHNICAL OPERATIONS (NTO) is responsible for making our innovative medicines, devices and Sandoz products and delivering them to our customers across the world.
+Topic : 
+Business Model and Innovation
+Product Design and Lifecycle Management
+Selling Practices and Product Labeling
+Management of the Legal Regulatory Environment
+Business Model Resilience
+
+---------------------------------------------------------------------------------------------
+
+Sentence : CORPORATE FUNCTIONS support the enterprise in specific areas of expertise, including finance, human resources, legal and commu- nications.
+Topic : 
+Human Capital
+Human Capital and Business Ethics
+Leadership and Governance
+HR & Human Capital
+Human Capital and Community Relations
+
+---------------------------------------------------------------------------------------------
+
+Sentence : The Novartis Institutes for BioMedical Research (NIBR) is the innovation engine of Novartis.
+Topic : 
+Business Model and Innovation
+Business Model and Innovation Management
+BioMedical Innovation and Innovation
+Access and Affordability
+BioMedical Research and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence :  tEChNOlOGY We use artificial intelligence, gene editing and other cutting-edge tech- nologies to spur innovation and increase efficiency.
+Topic : 
+Business Model and Innovation
+Artificial Intelligence
+Business Model Resilience
+Environment
+Systemic Risk Management
+
+---------------------------------------------------------------------------------------------
+
+Sentence : At the same time, the worlds population continues to grow and people are living longer, fueling a rise in chronic diseases.
+Topic : 
+Population Health and Safety
+Human Capital
+Global Health and Safety
+Business Model and Innovation
+Population Growth and Development
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We are committed to taking real, meas- urable and reportable action in these key areas, and making sure that we communicate about them clearly and transparently.
+Topic : 
+Business Ethics
+Leadership and Governance
+Customer Welfare
+Customer Privacy
+Customer Welfare and Security
+
+---------------------------------------------------------------------------------------------
+
+Sentence : These topics are at the core of the four GH&CR focus areas outlined above, and are covered in the following sections of this report.
+Topic : 
+Human Capital
+Business Ethics
+Leadership and Governance
+Systemic Risk Management
+Customer Welfare and Community Relations
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Over the past 20 years, our company has evolved its approach to corporate responsibility, moving beyond philanthropic initiatives to strategically integrate access in our core business operations.
+Topic : 
+Business Ethics
+Leadership and Governance
+Systemic Risk Management
+Customer Welfare
+Human Capital
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Our strategy rests on five pillars and is rooted in one of the five corporate pri- orities: building trust with society.
+Topic : 
+Business Ethics
+Leadership and Governance
+Social Capital
+Customer Welfare
+Human Capital
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Our annual progress and aspirations for the future are reflected in this report, which is organized around our four key GH&CR focus areas:
+Topic : 
+Human Capital
+Access and Affordability
+Leadership and Governance
+Business Model and Innovation
+Economic Impacts of Climate Change
+
+---------------------------------------------------------------------------------------------
+
+Sentence : One way we approach this is through our corporate responsibility materiality assessment to understand what matters to our stake- holders and how they perceive our impact.
+Topic : 
+Business Ethics
+Customer Welfare and Governance
+Physical Impact of Climate Change
+Customer Welfare
+Management of the Legal Environment
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We use innovative science and technology to address some of societys most challenging healthcare issues.
+Topic : 
+Access and Affordability
+Access, and Affordability
+Access and Affordability Management
+Access & Affordability
+Business Model and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We also offer about 1 000 generic and bio- similar medicines covering a broad range of therapeutic areas.
+Topic : 
+Selling Practices and Product Labeling
+Competitive Behavior
+Access and Affordability
+Business Model and Product Labeling
+Business Model and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : The rise in the average yearly number of new drugs approved by the US FDAs Center for Drug Evaluation and Research from 2015-2019, compared to 2010-2014
+Topic : 
+Selling Practices and Product Labeling
+Product Design and Lifecycle Management
+Management of the Legal Regulatory Environment
+Business Model Resilience
+Business Model and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : The projected value of the global digital health market by 2023 (USD), a 60% increase from 2019, according to the Frost & Sullivan Global Digital Health Outlook 2020
+Topic : 
+Business Model and Innovation
+Digital Health and Safety
+Business Model Resilience
+Digital Health and Human Capital
+Digital Health and Wellness
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We are rethinking how we work, embracing agile teams and building better productivity into our company to free resources that we can invest in innovation and help boost returns.
+Topic : 
+Business Model and Innovation
+Business Model Resilience
+Business Model, Innovation and Innovation
+Business Model for Innovation and Innovation
+Business Model of Innovation and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Our ESG-related commitments are not add-ons to our business they perme- ate Novartis to the core and we are owning this journey at the most senior levels of the company.
+Topic : 
+Energy Management
+Energy Management and Climate Change
+Energy Management and Efficiency
+Energy Management and Environment
+Energy Management and Sustainability
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Theres much more to share, and our 2019 report provides an update on our commitments but more importantly on our actions.
+Topic : 
+Business Ethics
+Leadership and Governance
+Business Model and Governance
+Human Capital
+Business Model Resilience
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We understand our contri- butions must be part of a larger social movement, as the challenges society faces are too great for any group or government to solve alone.
+Topic : 
+Social Capital
+Leadership and Governance
+Social Capital and Community Relations
+Business Model Resilience
+Socialism and Community Relations
+
+---------------------------------------------------------------------------------------------
+
+Sentence : In 2019, we established a Trust & Reputation Com- mittee, which I personally chair, to review our ESG performance.
+Topic : 
+Business Ethics
+Leadership and Governance
+Customer Welfare
+Social Capital
+Trust and Trustworthiness
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Within these clusters, priority topics were identified.
+Topic : 
+Leadership and Governance
+Business Model and Governance
+Business Ethics
+Business Model and Innovation
+Business Model Resilience
+
+---------------------------------------------------------------------------------------------
+
+Sentence : These topics are at the core of the four GH&CR focus areas outlined above, and are covered in the following sections of this report.
+Topic : 
+Human Capital
+Business Ethics
+Leadership and Governance
+Systemic Risk Management
+Customer Welfare and Community Relations
+
+---------------------------------------------------------------------------------------------
+
+Sentence : NGOs, government agencies, private sector firms, patient organizations, the media and health technology compa- nies to discuss strategies to achieve universal health coverage in Africa.
+Topic : 
+Business Model and Innovation
+Business Model Resilience
+Health and Safety
+Human Rights and Community Relations
+Public Health and Safety
+
+---------------------------------------------------------------------------------------------
+
+Sentence : CORPORATE FUNCTIONS support the enterprise in specific areas of expertise, including finance, human resources, legal and commu- nications.
+Topic : 
+Human Capital
+Human Capital and Business Ethics
+Leadership and Governance
+HR & Human Capital
+Human Capital and Community Relations
+
+---------------------------------------------------------------------------------------------
+
+Sentence : As we implement our strategy, we have five priorities to shape our future and help us continue to create value for our company, our shareholders and society.
+Topic : 
+Business Ethics
+Business Model and Governance
+Business Model and Innovation
+Leadership and Governance
+Business Model and Leadership
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Thank you for taking the time to learn more about how Novartis continues to make meaningful progress on environ- mental, social and governance (ESG) topics.
+Topic : 
+Environment
+Environment and Governance
+Environmental Impact of Climate Change
+Environment for Community Relations
+Environment Resilience
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Related to responsible citizenship, we made significant progress toward making good on the promises we made in signing the UN Equal Pay Interna- tional Coalition (EPIC) pledge for pay equity.
+Topic : 
+Human Rights and Community Relations
+Employee Health and Safety
+Human Capital
+Leadership and Governance
+Employee Benefits and Diversity
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We also aim to reward those who invest their money, time and ideas in our company.
+Topic : 
+Customer Welfare
+Customer Welfare and Community Relations
+Customer Welfare and Welfare
+Customer Welfare and Employee Welfare
+Customer Welfare and Diversity
+
+---------------------------------------------------------------------------------------------
+
+Sentence : RElatIONshIPs We work with doctors to get effective treat- ments to patients.
+Topic : 
+Access and Affordability
+Selling Practices and Product Labeling
+Systemic Risk Management
+Management of the Legal Regulatory Environment
+Business Model and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Our ESG-related commitments are not add-ons to our business they perme- ate Novartis to the core and we are owning this journey at the most senior levels of the company.
+Topic : 
+Energy Management
+Energy Management and Climate Change
+Energy Management and Efficiency
+Energy Management and Environment
+Energy Management and Sustainability
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Related to responsible citizenship, we made significant progress toward making good on the promises we made in signing the UN Equal Pay Interna- tional Coalition (EPIC) pledge for pay equity.
+Topic : 
+Human Rights and Community Relations
+Employee Health and Safety
+Human Capital
+Leadership and Governance
+Employee Benefits and Diversity
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Photo A worker at Ziplines distribution center in Omenako, Ghana, prepares a medical order for drone delivery.
+Topic : 
+Business Model and Innovation
+Business Model Resilience
+Business Ethics
+Customer Welfare
+Business Modeling and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : g INFRastRUCtURE aND FaCIlItIEs We own or lease research laborato- ries, manufacturing sites, offices and distribution facilities around the world.
+Topic : 
+Business Model Resilience
+Business Model and Innovation
+Research and Innovation
+Research and Development
+Business Model and Product Design
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Our products Our products address most major disease areas and are sold in approximately 155 countries around the world.
+Topic : 
+Business Model and Product Labeling
+Access and Affordability
+Product Quality and Safety
+Product Labeling and Safety
+Management of the Legal Risk Management
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We are transforming our culture to ensure people can fully apply their talent and energy.
+Topic : 
+Leadership and Governance
+Business Ethics
+Culture and Leadership
+Culture and Innovation
+Human Capital
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Novartis has partnered with Zipline, a US-based automated logistics company, to help deliver vital medicines to remote areas.
+Topic : 
+Business Model and Innovation
+Business Model Resilience
+Business Model & Innovation
+Business Model and Technology
+Business Model and Product Design
+
+---------------------------------------------------------------------------------------------
+
+Sentence : CORPORATE FUNCTIONS support the enterprise in specific areas of expertise, including finance, human resources, legal and commu- nications.
+Topic : 
+Human Capital
+Human Capital and Business Ethics
+Leadership and Governance
+HR & Human Capital
+Human Capital and Community Relations
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Our ESG-related commitments are not add-ons to our business they perme- ate Novartis to the core and we are owning this journey at the most senior levels of the company.
+Topic : 
+Energy Management
+Energy Management and Climate Change
+Energy Management and Efficiency
+Energy Management and Environment
+Energy Management and Sustainability
+
+---------------------------------------------------------------------------------------------
+
+Sentence : In 2019, we established a Trust & Reputation Com- mittee, which I personally chair, to review our ESG performance.
+Topic : 
+Business Ethics
+Leadership and Governance
+Customer Welfare
+Social Capital
+Trust and Trustworthiness
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Photo A worker at Ziplines distribution center in Omenako, Ghana, prepares a medical order for drone delivery.
+Topic : 
+Business Model and Innovation
+Business Model Resilience
+Business Ethics
+Customer Welfare
+Business Modeling and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Novartis has partnered with Zipline, a US-based automated logistics company, to help deliver vital medicines to remote areas.
+Topic : 
+Business Model and Innovation
+Business Model Resilience
+Business Model & Innovation
+Business Model and Technology
+Business Model and Product Design
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We use innovative science and technology to address some of societys most challenging healthcare issues.
+Topic : 
+Access and Affordability
+Access, and Affordability
+Access and Affordability Management
+Access & Affordability
+Business Model and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Novartis Pharmaceuticals Novartis Pharmaceuticals focuses on patented treat - ments in multiple disease areas to enhance health outcomes for patients and offer solutions to healthcare providers.
+Topic : 
+Business Model and Innovation
+Business Model Resilience
+Management of the Legal Regulatory Environment
+Selling Practices and Product Labeling
+Access and Affordability
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Photo A worker at Ziplines distribution center in Omenako, Ghana, prepares a medical order for drone delivery.
+Topic : 
+Business Model and Innovation
+Business Model Resilience
+Business Ethics
+Customer Welfare
+Business Modeling and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Novartis has partnered with Zipline, a US-based automated logistics company, to help deliver vital medicines to remote areas.
+Topic : 
+Business Model and Innovation
+Business Model Resilience
+Business Model & Innovation
+Business Model and Technology
+Business Model and Product Design
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Cover photo Patients at Kumasi General Hospital in Ghana, where newborns are screened for sickle cell disease.
+Topic : 
+Selling Practices and Product Labeling
+Systemic Risk Management
+Management of the Legal Regulatory Environment
+Access and Affordability
+Employee Engagement, Diversity and Inclusion
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Only about 4% of babies in Ghana are tested for this debilitating genetic blood disorder.
+Topic : 
+Customer Welfare
+Systemic Risk Management
+Business Model Resilience
+Business Model and Innovation
+Business Ethics
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Photo A worker at Ziplines distribution center in Omenako, Ghana, prepares a medical order for drone delivery.
+Topic : 
+Business Model and Innovation
+Business Model Resilience
+Business Ethics
+Customer Welfare
+Business Modeling and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Only about 4% of babies in Ghana are tested for this debilitating genetic blood disorder.
+Topic : 
+Customer Welfare
+Systemic Risk Management
+Business Model Resilience
+Business Model and Innovation
+Business Ethics
+
+---------------------------------------------------------------------------------------------
+
+Sentence :  tEChNOlOGY We use artificial intelligence, gene editing and other cutting-edge tech- nologies to spur innovation and increase efficiency.
+Topic : 
+Business Model and Innovation
+Artificial Intelligence
+Business Model Resilience
+Environment
+Systemic Risk Management
+
+---------------------------------------------------------------------------------------------
+
+Sentence : g INFRastRUCtURE aND FaCIlItIEs We own or lease research laborato- ries, manufacturing sites, offices and distribution facilities around the world.
+Topic : 
+Business Model Resilience
+Business Model and Innovation
+Research and Innovation
+Research and Development
+Business Model and Product Design
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We use innovative science and technology to address some of societys most challenging healthcare issues.
+Topic : 
+Access and Affordability
+Access, and Affordability
+Access and Affordability Management
+Access & Affordability
+Business Model and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We also aim to reward those who invest their money, time and ideas in our company.
+Topic : 
+Customer Welfare
+Customer Welfare and Community Relations
+Customer Welfare and Welfare
+Customer Welfare and Employee Welfare
+Customer Welfare and Diversity
+
+---------------------------------------------------------------------------------------------
+
+Sentence : NOVARTIS TECHNICAL OPERATIONS (NTO) is responsible for making our innovative medicines, devices and Sandoz products and delivering them to our customers across the world.
+Topic : 
+Business Model and Innovation
+Product Design and Lifecycle Management
+Selling Practices and Product Labeling
+Management of the Legal Regulatory Environment
+Business Model Resilience
+
+---------------------------------------------------------------------------------------------
+
+Sentence : NIBR focuses on discovering new drugs that can change the practice of medicine.
+Topic : 
+Business Model and Innovation
+Access and Affordability
+Business Model and Innovation in Medicine
+Product Design and Lifecycle Management
+Systemic Risk Management
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Photo A worker at Ziplines distribution center in Omenako, Ghana, prepares a medical order for drone delivery.
+Topic : 
+Business Model and Innovation
+Business Model Resilience
+Business Ethics
+Customer Welfare
+Business Modeling and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Only about 4% of babies in Ghana are tested for this debilitating genetic blood disorder.
+Topic : 
+Customer Welfare
+Systemic Risk Management
+Business Model Resilience
+Business Model and Innovation
+Business Ethics
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We reimagine medicine to improve and extend peoples lives.
+Topic : 
+Business Model and Innovation
+Access and Affordability
+Business Model Resilience
+Medicine for the Health and Safety
+Customer Welfare and Community Relations
+
+---------------------------------------------------------------------------------------------
+
+Sentence : RElatIONshIPs We work with doctors to get effective treat- ments to patients.
+Topic : 
+Access and Affordability
+Selling Practices and Product Labeling
+Systemic Risk Management
+Management of the Legal Regulatory Environment
+Business Model and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We also aim to reward those who invest their money, time and ideas in our company.
+Topic : 
+Customer Welfare
+Customer Welfare and Community Relations
+Customer Welfare and Welfare
+Customer Welfare and Employee Welfare
+Customer Welfare and Diversity
+
+---------------------------------------------------------------------------------------------
+
+Sentence : INtEllECtUal CaPItal We use expertise and data to devel- op and market our products.
+Topic : 
+Product Design and Lifecycle Management
+Product Design and Marketing
+Business Model Resilience
+Product Design and Marketability
+Business Model and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : At the same time, the worlds population continues to grow and people are living longer, fueling a rise in chronic diseases.
+Topic : 
+Population Health and Safety
+Human Capital
+Global Health and Safety
+Business Model and Innovation
+Population Growth and Development
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We strive to build trust with society through our efforts to operate with integrity, and to find new ways to expand patients access to our treatments.
+Topic : 
+Business Ethics
+Leadership and Governance
+Customer Welfare
+Business Ethics and Governance
+Business Ethics and Ethics
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Cover photo Patients at Kumasi General Hospital in Ghana, where newborns are screened for sickle cell disease.
+Topic : 
+Selling Practices and Product Labeling
+Systemic Risk Management
+Management of the Legal Regulatory Environment
+Access and Affordability
+Employee Engagement, Diversity and Inclusion
+
+---------------------------------------------------------------------------------------------
+
+Sentence : NOVARTIS BUSINESS SERVICES (NBS) consolidates support services across our organi- zation, helping drive effi- ciency, simplification, stan- dardization and quality.
+Topic : 
+Business Model Resilience
+Business Model and Innovation
+Business Model and Governance
+Business Ethics
+Business Model and Business Ethics
+
+---------------------------------------------------------------------------------------------
+
+Sentence : NatURal CaPItal We consume energy, e r water and other resources to manu- facture our products and operate our business.
+Topic : 
+Water & Wastewater Management
+Product Design and Lifecycle Management
+Business Ethics
+Business Model Resilience
+Business Model and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : RElatIONshIPs We work with doctors to get effective treat- ments to patients.
+Topic : 
+Access and Affordability
+Selling Practices and Product Labeling
+Systemic Risk Management
+Management of the Legal Regulatory Environment
+Business Model and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Novartis has partnered with Zipline, a US-based automated logistics company, to help deliver vital medicines to remote areas.
+Topic : 
+Business Model and Innovation
+Business Model Resilience
+Business Model & Innovation
+Business Model and Technology
+Business Model and Product Design
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Novartis Pharmaceuticals Novartis Pharmaceuticals focuses on patented treat - ments in multiple disease areas to enhance health outcomes for patients and offer solutions to healthcare providers.
+Topic : 
+Business Model and Innovation
+Business Model Resilience
+Management of the Legal Regulatory Environment
+Selling Practices and Product Labeling
+Access and Affordability
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We also offer about 1 000 generic and bio- similar medicines covering a broad range of therapeutic areas.
+Topic : 
+Selling Practices and Product Labeling
+Competitive Behavior
+Access and Affordability
+Business Model and Product Labeling
+Business Model and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : The projected number of people in the world aged 65 or older by 2030, a 64% increase from 2015, according to the United Nations World Popula- tion Prospects
+Topic : 
+Population Health and Safety
+Human Capital
+Business Model Resilience
+Global Health and Safety
+Population and Community Relations
+
+---------------------------------------------------------------------------------------------
+
+Sentence : NIBR focuses on discovering new drugs that can change the practice of medicine.
+Topic : 
+Business Model and Innovation
+Access and Affordability
+Business Model and Innovation in Medicine
+Product Design and Lifecycle Management
+Systemic Risk Management
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We also announced plans to shift from maximiz- ing profit to maximizing access in sub- Saharan Africa, which has the worlds most underserved patient population.
+Topic : 
+Business Model Resilience
+Business Model and Innovation
+Systemic Risk Management
+Access and Accessibility
+Business Model and Governance
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We made significant progress in global health, including on our efforts to elim- inate leprosy and malaria.
+Topic : 
+Global Health and Safety
+Leadership and Governance
+Human Health and Safety
+Business Ethics
+Health and Safety
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Our teams also took important steps to help ensure we meet our com- mitment to become carbon neutral in our own operations by 2025.
+Topic : 
+GHG Emissions
+Physical Impacts of Climate Change
+Air Quality
+Business Ethics
+Energy Management
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We use innovative science and technology to address some of societys most challenging healthcare issues.
+Topic : 
+Access and Affordability
+Access, and Affordability
+Access and Affordability Management
+Access & Affordability
+Business Model and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We discover and develop breakthrough treatments and find new ways to deliver them to as many people as possible.
+Topic : 
+Business Model and Innovation
+Business Model and Innovation & Innovation
+Business Model Resilience
+Business Model Resilience and Innovation
+Business Model and Innovation Model of Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We partner with external organizations to ac- celerate drug discov- ery, develop business oppor tunities and ex- pand patient access.
+Topic : 
+Access and Affordability
+Access and Affordability Research and Innovation
+Access & Affordability
+Access and Affordability Regulatory Environment
+Access to and Affordability
+
+---------------------------------------------------------------------------------------------
+
+Sentence : FINaNCIal CaPItal We use cash, equity and debt to meet our financial com- mitments, make investments and pay dividends.
+Topic : 
+Business Model Resilience
+Business Model and Investment Management
+Capital Market Risk Management
+Management of the Financial System
+Business Model and Governance
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Photo A worker at Ziplines distribution center in Omenako, Ghana, prepares a medical order for drone delivery.
+Topic : 
+Business Model and Innovation
+Business Model Resilience
+Business Ethics
+Customer Welfare
+Business Modeling and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : g INFRastRUCtURE aND FaCIlItIEs We own or lease research laborato- ries, manufacturing sites, offices and distribution facilities around the world.
+Topic : 
+Business Model Resilience
+Business Model and Innovation
+Research and Innovation
+Research and Development
+Business Model and Product Design
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Our manufacturing facilities produced 72 billion treatments in 2019.
+Topic : 
+Business Model Resilience
+Business Model and Innovation
+Access and Affordability
+Systemic Risk Management
+Business Ethics
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We are transforming our culture to ensure people can fully apply their talent and energy.
+Topic : 
+Leadership and Governance
+Business Ethics
+Culture and Leadership
+Culture and Innovation
+Human Capital
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We also aim to reward those who invest their money, time and ideas in our company.
+Topic : 
+Customer Welfare
+Customer Welfare and Community Relations
+Customer Welfare and Welfare
+Customer Welfare and Employee Welfare
+Customer Welfare and Diversity
+
+---------------------------------------------------------------------------------------------
+
+Sentence : NOVARTIS BUSINESS SERVICES (NBS) consolidates support services across our organi- zation, helping drive effi- ciency, simplification, stan- dardization and quality.
+Topic : 
+Business Model Resilience
+Business Model and Innovation
+Business Model and Governance
+Business Ethics
+Business Model and Business Ethics
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Our environment We live in an era of amazing medical innovation, driven by better understanding of the genetic and biological roots of disease, and surging use of data analytics and digital technology in science and healthcare.
+Topic : 
+Environment
+Environmental Impacts of Climate Change
+Environmental Impacts of Disease Control
+Environment and Health and Safety
+Environment and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : As we implement our strategy, we have five priorities to shape our future and help us continue to create value for our company, our shareholders and society.
+Topic : 
+Business Ethics
+Business Model and Governance
+Business Model and Innovation
+Leadership and Governance
+Business Model and Leadership
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Cover photo Patients at Kumasi General Hospital in Ghana, where newborns are screened for sickle cell disease.
+Topic : 
+Selling Practices and Product Labeling
+Systemic Risk Management
+Management of the Legal Regulatory Environment
+Access and Affordability
+Employee Engagement, Diversity and Inclusion
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Novartis Pharmaceuticals Novartis Pharmaceuticals focuses on patented treat - ments in multiple disease areas to enhance health outcomes for patients and offer solutions to healthcare providers.
+Topic : 
+Business Model and Innovation
+Business Model Resilience
+Management of the Legal Regulatory Environment
+Selling Practices and Product Labeling
+Access and Affordability
+
+---------------------------------------------------------------------------------------------
+
+Sentence : RElatIONshIPs We work with doctors to get effective treat- ments to patients.
+Topic : 
+Access and Affordability
+Selling Practices and Product Labeling
+Systemic Risk Management
+Management of the Legal Regulatory Environment
+Business Model and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Our manufacturing facilities produced 72 billion treatments in 2019.
+Topic : 
+Business Model Resilience
+Business Model and Innovation
+Access and Affordability
+Systemic Risk Management
+Business Ethics
+
+---------------------------------------------------------------------------------------------
+
+Sentence : NOVARTIS TECHNICAL OPERATIONS (NTO) is responsible for making our innovative medicines, devices and Sandoz products and delivering them to our customers across the world.
+Topic : 
+Business Model and Innovation
+Product Design and Lifecycle Management
+Selling Practices and Product Labeling
+Management of the Legal Regulatory Environment
+Business Model Resilience
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Our products Our products address most major disease areas and are sold in approximately 155 countries around the world.
+Topic : 
+Business Model and Product Labeling
+Access and Affordability
+Product Quality and Safety
+Product Labeling and Safety
+Management of the Legal Risk Management
+
+---------------------------------------------------------------------------------------------
+
+Sentence : The rise in the average yearly number of new drugs approved by the US FDAs Center for Drug Evaluation and Research from 2015-2019, compared to 2010-2014
+Topic : 
+Selling Practices and Product Labeling
+Product Design and Lifecycle Management
+Management of the Legal Regulatory Environment
+Business Model Resilience
+Business Model and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We aim to spark a digital revolution at Novartis, embracing digital tech- no logies, advanced analytics and artificial intelligence to help drive innovation and improve efficiency.
+Topic : 
+Business Model and Innovation
+Digital Innovation and Innovation
+Leadership and Governance
+Digital Transformation and Innovation
+Business Model and Governance
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Novartis has partnered with Zipline, a US-based automated logistics company, to help deliver vital medicines to remote areas.
+Topic : 
+Business Model and Innovation
+Business Model Resilience
+Business Model & Innovation
+Business Model and Technology
+Business Model and Product Design
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Cover photo Patients at Kumasi General Hospital in Ghana, where newborns are screened for sickle cell disease.
+Topic : 
+Selling Practices and Product Labeling
+Systemic Risk Management
+Management of the Legal Regulatory Environment
+Access and Affordability
+Employee Engagement, Diversity and Inclusion
+
+---------------------------------------------------------------------------------------------
+
+Sentence : NOVARTIS TECHNICAL OPERATIONS (NTO) is responsible for making our innovative medicines, devices and Sandoz products and delivering them to our customers across the world.
+Topic : 
+Business Model and Innovation
+Product Design and Lifecycle Management
+Selling Practices and Product Labeling
+Management of the Legal Regulatory Environment
+Business Model Resilience
+
+---------------------------------------------------------------------------------------------
+
+Sentence : NOVARTIS BUSINESS SERVICES (NBS) consolidates support services across our organi- zation, helping drive effi- ciency, simplification, stan- dardization and quality.
+Topic : 
+Business Model Resilience
+Business Model and Innovation
+Business Model and Governance
+Business Ethics
+Business Model and Business Ethics
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Novartis has partnered with Zipline, a US-based automated logistics company, to help deliver vital medicines to remote areas.
+Topic : 
+Business Model and Innovation
+Business Model Resilience
+Business Model & Innovation
+Business Model and Technology
+Business Model and Product Design
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We use innovative science and technology to address some of societys most challenging healthcare issues.
+Topic : 
+Access and Affordability
+Access, and Affordability
+Access and Affordability Management
+Access & Affordability
+Business Model and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We also aim to reward those who invest their money, time and ideas in our company.
+Topic : 
+Customer Welfare
+Customer Welfare and Community Relations
+Customer Welfare and Welfare
+Customer Welfare and Employee Welfare
+Customer Welfare and Diversity
+
+---------------------------------------------------------------------------------------------
+
+Sentence : NOVARTIS TECHNICAL OPERATIONS (NTO) is responsible for making our innovative medicines, devices and Sandoz products and delivering them to our customers across the world.
+Topic : 
+Business Model and Innovation
+Product Design and Lifecycle Management
+Selling Practices and Product Labeling
+Management of the Legal Regulatory Environment
+Business Model Resilience
+
+---------------------------------------------------------------------------------------------
+
+Sentence : NIBR focuses on discovering new drugs that can change the practice of medicine.
+Topic : 
+Business Model and Innovation
+Access and Affordability
+Business Model and Innovation in Medicine
+Product Design and Lifecycle Management
+Systemic Risk Management
+
+---------------------------------------------------------------------------------------------
+
+Sentence : NatURal CaPItal We consume energy, e r water and other resources to manu- facture our products and operate our business.
+Topic : 
+Water & Wastewater Management
+Product Design and Lifecycle Management
+Business Ethics
+Business Model Resilience
+Business Model and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : INtEllECtUal CaPItal We use expertise and data to devel- op and market our products.
+Topic : 
+Product Design and Lifecycle Management
+Product Design and Marketing
+Business Model Resilience
+Product Design and Marketability
+Business Model and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : The rise in the average yearly number of new drugs approved by the US FDAs Center for Drug Evaluation and Research from 2015-2019, compared to 2010-2014
+Topic : 
+Selling Practices and Product Labeling
+Product Design and Lifecycle Management
+Management of the Legal Regulatory Environment
+Business Model Resilience
+Business Model and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : CORPORATE FUNCTIONS support the enterprise in specific areas of expertise, including finance, human resources, legal and commu- nications.
+Topic : 
+Human Capital
+Human Capital and Business Ethics
+Leadership and Governance
+HR & Human Capital
+Human Capital and Community Relations
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Our ESG-related commitments are not add-ons to our business they perme- ate Novartis to the core and we are owning this journey at the most senior levels of the company.
+Topic : 
+Energy Management
+Energy Management and Climate Change
+Energy Management and Efficiency
+Energy Management and Environment
+Energy Management and Sustainability
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Related to responsible citizenship, we made significant progress toward making good on the promises we made in signing the UN Equal Pay Interna- tional Coalition (EPIC) pledge for pay equity.
+Topic : 
+Human Rights and Community Relations
+Employee Health and Safety
+Human Capital
+Leadership and Governance
+Employee Benefits and Diversity
+
+---------------------------------------------------------------------------------------------
+
+Sentence : 1 Guide the implementation of the Novartis Access Principles in the areas of research and development (R&D), affordability and pricing, and health system strengthening
+Topic : 
+Access and Affordability
+Accessibility and Affordability
+Business Model Resilience
+Access and Affordability Management
+Business Model and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Photo A worker at Ziplines distribution center in Omenako, Ghana, prepares a medical order for drone delivery.
+Topic : 
+Business Model and Innovation
+Business Model Resilience
+Business Ethics
+Customer Welfare
+Business Modeling and Innovation
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Only about 4% of babies in Ghana are tested for this debilitating genetic blood disorder.
+Topic : 
+Customer Welfare
+Systemic Risk Management
+Business Model Resilience
+Business Model and Innovation
+Business Ethics
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We reimagine medicine to improve and extend peoples lives.
+Topic : 
+Business Model and Innovation
+Access and Affordability
+Business Model Resilience
+Medicine for the Health and Safety
+Customer Welfare and Community Relations
+
+---------------------------------------------------------------------------------------------
+
+Sentence : NIBR focuses on discovering new drugs that can change the practice of medicine.
+Topic : 
+Business Model and Innovation
+Access and Affordability
+Business Model and Innovation in Medicine
+Product Design and Lifecycle Management
+Systemic Risk Management
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Novartis has partnered with Zipline, a US-based automated logistics company, to help deliver vital medicines to remote areas.
+Topic : 
+Business Model and Innovation
+Business Model Resilience
+Business Model & Innovation
+Business Model and Technology
+Business Model and Product Design
+
+---------------------------------------------------------------------------------------------
+
+Sentence : We also aim to reward those who invest their money, time and ideas in our company.
+Topic : 
+Customer Welfare
+Customer Welfare and Community Relations
+Customer Welfare and Welfare
+Customer Welfare and Employee Welfare
+Customer Welfare and Diversity
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Were creating an organization where people are inspired, curious and unbossed.
+Topic : 
+Leadership and Governance
+Business Ethics
+Business Model and Innovation
+Customer Welfare
+Human Capital
+
+---------------------------------------------------------------------------------------------
+
+Sentence : Thank you for taking the time to learn more about how Novartis continues to make meaningful progress on environ- mental, social and governance (ESG) topics.
+Topic : 
+Environment
+Environment and Governance
+Environmental Impact of Climate Change
+Environment for Community Relations
+Environment Resilience
+
+---------------------------------------------------------------------------------------------
+
